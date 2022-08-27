@@ -1,3 +1,3 @@
 # git215_setup
-## Author: Laximiliano Lopez
+## Author: Maximiliano Lopez
  module 1 hw
